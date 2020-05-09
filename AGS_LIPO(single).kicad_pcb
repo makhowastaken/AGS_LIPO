@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 20)
+    (drawings 21)
     (tracks 6)
     (zones 0)
     (modules 0)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/"))
+      (outputdirectory "gerbers(single)/"))
   )
 
   (net 0 "")
@@ -101,6 +101,9 @@
     (uvia_drill 0.1)
   )
 
+  (gr_text "+ makho -" (at -3.5 18.5 270) (layer B.Mask) (tstamp 5EB6F6F1)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
   (gr_poly (pts (xy -6 13.5) (xy -1 13.5) (xy -1 17.5) (xy -6 17.5)) (layer F.Mask) (width 0.1) (tstamp 5E1C0EDF))
   (gr_poly (pts (xy -5 28) (xy -2 28) (xy -2 30.5) (xy -5 30.5)) (layer B.Cu) (width 0.1) (tstamp 5E1C0EDE))
   (gr_line (start -1.5 31.5) (end -5 31.5) (layer Edge.Cuts) (width 0.05) (tstamp 5E1C0EDD))
