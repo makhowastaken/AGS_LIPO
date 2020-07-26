@@ -14,3 +14,7 @@ For more info and for the install, see this youtube video: https://youtu.be/VjnO
 
 ![front](front.png)
 ![back](back.png)
+
+Bonus, this battery mod also works perfectly in the original DS (as is) and the DS Lite (rotated) as picture below ([credit](https://www.reddit.com/r/Gameboy/comments/hnpqkj/got_extra_lipos_and_makho_pcbs_fits_well_in_the/) from u/deep_size)
+
+![ndsl](ndsl.jpg)
