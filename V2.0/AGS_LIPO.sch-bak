@@ -1,0 +1,77 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BM02B-ACHSS-GAN-TF_LF__SN_:BM02B-ACHSS-GAN-TF(LF)(SN) J?
+U 1 1 5F0BDC23
+P 2900 1300
+F 0 "J?" H 3130 1396 50  0000 L CNN
+F 1 "BM02B-ACHSS-GAN-TF(LF)(SN)" H 3130 1305 50  0000 L CNN
+F 2 "JST_BM02B-ACHSS-GAN-TF(LF)(SN)" H 2900 1300 50  0001 L BNN
+F 3 "Manufacturer Recommendations" H 2900 1300 50  0001 L BNN
+F 4 "JST" H 2900 1300 50  0001 L BNN "Field4"
+	1    2900 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 5F0BE68B
+P 1900 1000
+F 0 "TP?" V 2095 1072 50  0000 C CNN
+F 1 "TestPoint" V 2004 1072 50  0000 C CNN
+F 2 "" H 2100 1000 50  0001 C CNN
+F 3 "~" H 2100 1000 50  0001 C CNN
+	1    1900 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 5F0BEC84
+P 1900 1300
+F 0 "TP?" V 2095 1372 50  0000 C CNN
+F 1 "TestPoint" V 2004 1372 50  0000 C CNN
+F 2 "" H 2100 1300 50  0001 C CNN
+F 3 "~" H 2100 1300 50  0001 C CNN
+	1    1900 1300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 1300 2300 1300
+Wire Wire Line
+	2300 1300 2300 1200
+Wire Wire Line
+	2300 1200 2500 1200
+Wire Wire Line
+	1900 1000 2300 1000
+Wire Wire Line
+	2300 1000 2300 1100
+Wire Wire Line
+	2300 1100 2500 1100
+$Comp
+L power:GND #PWR?
+U 1 1 5F0BF6E3
+P 2300 1650
+F 0 "#PWR?" H 2300 1400 50  0001 C CNN
+F 1 "GND" H 2305 1477 50  0000 C CNN
+F 2 "" H 2300 1650 50  0001 C CNN
+F 3 "" H 2300 1650 50  0001 C CNN
+	1    2300 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 1650 2300 1400
+Wire Wire Line
+	2300 1400 2500 1400
+$EndSCHEMATC
