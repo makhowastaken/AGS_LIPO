@@ -14,6 +14,8 @@ Works well with 603048 batteries: https://www.aliexpress.com/item/33001664276.ht
 
 Needs no extra parts beyond a battery itself. Order PCBs from OSHpark or download the PCB files here for using with your preferred fab. ENIG is highly recommended for this. https://oshpark.com/shared_projects/gaB93JkC
 
+Or order straight from RGRS: https://retrogamerepairshop.com/collections/makho/products/gba-sp-game-boy-advance-sp-rechargeable-850mah-lipo-battery-mod-by-makho
+
 For more info and for the install, see this youtube video: https://youtu.be/VjnONhSVvpA
 
 ![front](V1.0/front.png)
