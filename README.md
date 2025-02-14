@@ -34,6 +34,6 @@ Purchase one pre-assembled directly from Retromodding: [https://www.retromodding
 
 Bonus, this battery mod also works perfectly in the original DS (as is) and the DS Lite (rotated) as picture below ([credit](https://www.reddit.com/r/Gameboy/comments/hnpqkj/got_extra_lipos_and_makho_pcbs_fits_well_in_the/) from u/deep_size)
 
-Simply order the v1 version boards and 603048 battery cells and assemble accordingly. There is no "framed" version of this mod for DS Lite. 
+Simply order the v1 version boards and 603048 battery cells and assemble accordingly. There is no "framed" version of this mod for DS consoles.
 
 ![ndsl](ndsl.jpg)
